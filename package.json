@@ -43,7 +43,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tq-samples.github.io/rouletto-react-app/",
   "devDependencies": {
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
