@@ -68,5 +68,6 @@
       "./src/index.tsx",
       "./src/reportWebVitals.ts"
     ]
-  }
+  },
+  "homepage":"https://nes-frontend.github.io/roulette-app/"
 }
