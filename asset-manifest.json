@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.c7ae567a.js",
-    "static/js/845.3a1d0e8b.chunk.js": "/static/js/845.3a1d0e8b.chunk.js",
-    "static/js/787.bd884e37.chunk.js": "/static/js/787.bd884e37.chunk.js",
-    "static/media/roll.mp3": "/static/media/roll.6d8e3dd963809cda116e.mp3",
-    "static/media/stop.mp3": "/static/media/stop.b962ee3051ceee6ea8e4.mp3",
-    "index.html": "/index.html",
-    "main.c7ae567a.js.map": "/static/js/main.c7ae567a.js.map",
-    "845.3a1d0e8b.chunk.js.map": "/static/js/845.3a1d0e8b.chunk.js.map",
-    "787.bd884e37.chunk.js.map": "/static/js/787.bd884e37.chunk.js.map"
+    "main.js": "/roulette-app/static/js/main.a2500d81.js",
+    "static/js/845.3a1d0e8b.chunk.js": "/roulette-app/static/js/845.3a1d0e8b.chunk.js",
+    "static/js/787.bd884e37.chunk.js": "/roulette-app/static/js/787.bd884e37.chunk.js",
+    "static/media/roll.mp3": "/roulette-app/static/media/roll.6d8e3dd963809cda116e.mp3",
+    "static/media/stop.mp3": "/roulette-app/static/media/stop.b962ee3051ceee6ea8e4.mp3",
+    "index.html": "/roulette-app/index.html",
+    "main.a2500d81.js.map": "/roulette-app/static/js/main.a2500d81.js.map",
+    "845.3a1d0e8b.chunk.js.map": "/roulette-app/static/js/845.3a1d0e8b.chunk.js.map",
+    "787.bd884e37.chunk.js.map": "/roulette-app/static/js/787.bd884e37.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c7ae567a.js"
+    "static/js/main.a2500d81.js"
   ]
 }
